@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Nascimento, graduando em Sistemas de Informação e moro em Lauro de Freitas/BA.</p>
+<p align="left">Meu nome é Matheus Nascimento, graduando em Sistemas de Informação.</p>
 
 ###
 
