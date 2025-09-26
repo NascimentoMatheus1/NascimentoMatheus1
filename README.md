@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo desenvolvimento backend.<br>🎯 Meta: ser um desenvolvedor Full Stack.</p>
+<p align="left">📚 Atualmente estou aprendendo desenvolvimento backend.<br>🎯 Meta: conseguir estagiar e me tornar um desenvolvedor Full Stack.</p>
 
 ###
 
