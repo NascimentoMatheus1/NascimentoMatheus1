@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Matheus Nascimento, graduando em Sistemas de Informação.</p>
+<p align="left">Meu nome é Matheus Nascimento, Desenvolvedor Full Stack | React.js | Node.js | Express | PostgreSQL | BSI UFBA</p>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo desenvolvimento backend.<br>🎯 Meta: conseguir estagiar e me tornar um desenvolvedor Full Stack.</p>
+Sou desenvolvedor com foco em construir soluções digitais completas e escaláveis. Após consolidar uma base sólida no ecossistema Frontend com JavaScript (ES6+) e React.js, estou expandindo meu domínio técnico para o Backend, especializando-me na stack Node.js, Express e PostgreSQL.
+
+🎓 Formação: Graduando em Sistemas de Informação pela Universidade Federal da Bahia (UFBA).
+
+🎯 Objetivo: Atuar como Desenvolvedor Full Stack em frentes específicas de Back-end (Node.js) e Front-end (React.js).
+
+Stack Principal: 
+• Front-end: React.js, JavaScript, HTML5, CSS3. 
+• Back-end: Node.js, Express, PostgreSQL (SQL). • Ferramentas: Git, GitHub.
 
 ###
 
@@ -18,22 +26,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,npm,express,postgres)](https://skillicons.dev)
 
 ###
