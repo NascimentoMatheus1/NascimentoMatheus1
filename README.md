@@ -17,8 +17,9 @@ Sou desenvolvedor com foco em construir soluções digitais completas e escaláv
 🎯 Objetivo: Atuar como Desenvolvedor Full Stack em frentes específicas de Back-end (Node.js) e Front-end (React.js).
 
 Stack Principal: 
-• Front-end: React.js, JavaScript, HTML5, CSS3. 
-• Back-end: Node.js, Express, PostgreSQL (SQL). • Ferramentas: Git, GitHub.
+- Front-end: React.js, JavaScript, HTML5, CSS3.
+- Back-end: Node.js, Express, PostgreSQL (SQL).
+- Ferramentas: Git, GitHub.
 
 ###
 
