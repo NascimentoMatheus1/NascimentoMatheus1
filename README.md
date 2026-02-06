@@ -10,7 +10,7 @@
 
 ###
 
-Sou desenvolvedor com foco em construir soluções digitais completas e escaláveis. Após consolidar uma base sólida no ecossistema Frontend com JavaScript (ES6+) e React.js, estou expandindo meu domínio técnico para o Backend, especializando-me na stack Node.js, Express e PostgreSQL.
+Sou desenvolvedor com foco em construir soluções digitais completas e escaláveis. Após consolidar uma base sólida no ecossistema Frontend com JavaScript (ES6+) e React.js, estou expandindo minhas habilidades técnicas para o Backend na stack Node.js, Express e PostgreSQL.
 
 🎓 Formação: Graduando em Sistemas de Informação pela Universidade Federal da Bahia (UFBA).
 
