@@ -10,7 +10,7 @@
 
 ###
 
-Sou desenvolvedor com foco em construir soluções digitais completas e escaláveis. Após consolidar uma base sólida no ecossistema Frontend com JavaScript (ES6+) e React.js, estou expandindo minhas habilidades técnicas para o Backend na stack Node.js, Express e PostgreSQL.
+Sou desenvolvedor com foco em construir aplicações web completos. Após consolidar uma base sólida no ecossistema Frontend com JavaScript, HTML, CSS e React.js, estou expandindo minhas habilidades técnicas para o Backend na stack Node.js, Express e PostgreSQL.
 
 🎓 Formação: Graduando em Sistemas de Informação pela Universidade Federal da Bahia (UFBA).
 
@@ -18,7 +18,7 @@ Sou desenvolvedor com foco em construir soluções digitais completas e escaláv
 
 Stack Principal: 
 - Front-end: React.js, JavaScript, HTML5, CSS3.
-- Back-end: Node.js, Express, PostgreSQL (SQL).
+- Back-end: Node.js, Express, PostgreSQL.
 - Ferramentas: Git, GitHub.
 
 ###
